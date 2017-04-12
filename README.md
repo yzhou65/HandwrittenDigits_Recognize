@@ -1,5 +1,3 @@
-# CS 584: Machine Learning - Illinois Institute of Technology
-
 # Handwritten Digits and Letters: Recognition and Classification.
 
 
